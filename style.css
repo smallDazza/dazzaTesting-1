@@ -30,11 +30,11 @@ li:nth-child(2){
 }
 
 #man_standing{
-    max-width: 75vw;
-    max-height: 75vw;
+    max-width: 100vw;
+    max-height: 75vh;
 }
 
-img{
-    max-width: 50vw;
-    max-height: 50vh;
+#man_in_air{
+    max-width: 100vw;
+    max-height: 25vh;
 }
