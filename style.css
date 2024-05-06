@@ -2,6 +2,14 @@ h1{
     color:blue; background-color: aquamarine;
 }
 
+a{
+    font-size: 2rem;
+    color: darkred;
+}
+a:hover{
+    font-size: 3rem;
+    color: aqua;
+}
 /* article > p{
     font-size: 20px;
 } */
@@ -38,6 +46,7 @@ li:nth-child(2){
     max-width: 100vw;
     max-height: 25vh;
 }
+
 
 .container{
     width: 50vw;
